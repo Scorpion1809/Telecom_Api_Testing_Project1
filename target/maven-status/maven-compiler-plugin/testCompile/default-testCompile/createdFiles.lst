@@ -1,0 +1,14 @@
+utils\BaseTest.class
+apiTests\GetUserProfileTest.class
+apiTests\LoginUserTest.class
+apiTests\UpdateFullContactTest.class
+apiTests\LogoutUserTest.class
+utils\ConfigReader.class
+apiTests\AddContactTest.class
+apiTests\AddUserTest.class
+apiTests\GetContactListTest.class
+utils\ReportManager.class
+apiTests\GetContactTest.class
+apiTests\UpdatePartialContactTest.class
+apiTests\UpdateUserTest.class
+utils\TestDataProvider.class

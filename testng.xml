@@ -1,0 +1,16 @@
+<suite name="API Test Suite">
+    <test name="Contact List API Tests">
+        <classes>
+            <class name="apiTests.AddUserTest"/>
+            <class name="apiTests.LoginUserTest"/>
+            <class name="apiTests.GetUserProfileTest"/>
+            <class name="apiTests.UpdateUserTest"/>
+            <class name="apiTests.AddContactTest"/>
+            <class name="apiTests.GetContactListTest"/>
+            <class name="apiTests.GetContactTest"/>
+            <class name="apiTests.UpdateFullContactTest"/>
+            <class name="apiTests.UpdatePartialContactTest"/>
+            <class name="apiTests.LogoutUserTest"/>
+        </classes>
+    </test>
+</suite>
